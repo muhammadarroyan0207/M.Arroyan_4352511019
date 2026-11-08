@@ -10,7 +10,7 @@
   <img alt="Versi 1.0.0" src="https://img.shields.io/badge/Versi-1.0.0-5BD16A?style=for-the-badge">
 </p>
 
-> **Nama:** M.Arroyan<br>
+> **Nama:** M. Arroyan<br>
 > **NIM:** 4352511019<br>
 > **Mata kuliah:** Proyek Game 2D, seri 7 pertemuan (P1–P7)<br>
 > **Kampus:** Politeknik Negeri Batam, Program Studi Teknologi Permainan<br>
@@ -148,7 +148,8 @@ flowchart LR
 1. Clone branch ini (Git LFS wajib terpasang).
    ```bash
    git lfs install
-   git clone -b MReihanFahreza_4352511014 https://github.com/reihanfahreza/game_2D_Proj1.git
+   git clone https://github.com/muhammadarroyan0207/M.Arroyan_4352511019.git
+   cd M.Arroyan_4352511019
    ```
 2. Buka folder project lewat Unity Hub dengan **Unity 6000.3.24f1**.
 3. Tekan **Play**. Scene apa pun yang terbuka, game selalu mulai dari `Scn_Bootstrap`.
@@ -162,7 +163,7 @@ flowchart LR
 - Template Universal 2D, Input System (project-wide actions), Cinemachine 3.1.7, 2D Tilemap Extras.
 
 **Alur kerja**
-- Branch per anggota: `NamaLengkap_NIM` → `MReihanFahreza_4352511014`
+- Branch per anggota: `NamaLengkap_NIM` → `M.Arroyan_4352511019`
 - Commit: `feat:` / `fix:` / `art:` / `chore:` / `docs:` + ringkasan
 - Fetch → Update from main → kerja → tutup Unity → commit → push → PR
 
