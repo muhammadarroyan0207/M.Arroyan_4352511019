@@ -10,11 +10,11 @@
   <img alt="Versi 1.0.0" src="https://img.shields.io/badge/Versi-1.0.0-5BD16A?style=for-the-badge">
 </p>
 
-> **Nama:** M. Reihan Fahreza<br>
-> **NIM:** 4352511014<br>
+> **Nama:** M.Arroyan<br>
+> **NIM:** 4352511019<br>
 > **Mata kuliah:** Proyek Game 2D, seri 7 pertemuan (P1–P7)<br>
 > **Kampus:** Politeknik Negeri Batam, Program Studi Teknologi Permainan<br>
-> **Branch:** `MReihanFahreza_4352511014`
+> **Branch:** `M.Arroyan_4352511019`
 
 ---
 
